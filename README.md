@@ -1,78 +1,60 @@
-# ⚡ Fahad Hayat (FHD)
+# 👨‍💻 Fahad Hayat
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=F59E0B&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Real-Time+Systems+Builder;MERN+%7C+System+Design+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F59E0B&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Building+Real-Time+Applications;MERN+Stack+%7C+Backend+Focused" />
 </p>
 
 ---
 
-## 🧠 Identity
+## 🚀 About Me
 
-I build **systems, not just projects**.
+Full-Stack Developer focused on building **real-world applications** with clean backend architecture.
 
-- Focus: **Scalable backend + real-time architecture**
-- Strength: **MERN stack with production mindset**
-- Direction: **System Design → Cybersecurity**
+- Working on **FusionConnect** (real-time platform)
+- Strong in **MERN stack**
+- Learning **system design & cybersecurity**
 
 ---
 
-## ⚙️ Core Stack
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,git,docker" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,docker" />
 </p>
 
 ---
 
-## 🔥 Flagship Project
+## 💼 Featured Projects
 
-### 🚀 FusionConnect
-
-A **real-time collaboration platform** designed with scalability in mind.
-
-#### ⚡ Highlights
-- Modular backend architecture
-- Authentication system (JWT-based)
-- Messaging system (real-time oriented)
-- Structured API design
-
-#### 🧠 System Thinking
-- Separation of concerns (routes, controllers, services)
-- Scalable backend foundation
-- Designed for future event-driven architecture
-
+### 🔹 FusionConnect
+Real-time collaboration platform with scalable backend structure  
 👉 https://github.com/fahadhaya72/FusionConnect
 
 ---
 
-## 📊 GitHub Analytics
+### 🔹 MERN E-Commerce
+Production-ready e-commerce platform with admin dashboard  
+👉 https://github.com/fahadhaya72/E-commerce-Mern-
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github.com/fahadhaya72/fahadhaya72/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com/?user=fahadhaya72&theme=radical" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## ⚡
 
-- Backend scalability
-- System design patterns
-- Real-time communication systems
-- Practical cybersecurity
-
----
-
-## ⚡ Philosophy
-
-> Clean code. Real systems. No fake complexity.
+> I don’t build for tutorials — I build for real use.
