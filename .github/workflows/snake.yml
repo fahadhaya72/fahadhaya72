@@ -8,16 +8,21 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      # ✅ REQUIRED: checkout repo
+      - uses: actions/checkout@v4
+
+      # ✅ generate snake
       - uses: Platane/snk@v3
         with:
           github_user_name: fahadhaya72
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      # ✅ deploy to output branch (modern way)
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
