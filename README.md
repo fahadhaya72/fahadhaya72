@@ -54,7 +54,7 @@
 ## 📊 Performance Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -63,7 +63,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=fahadhaya72&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
