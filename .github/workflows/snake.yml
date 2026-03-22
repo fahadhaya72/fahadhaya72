@@ -2,10 +2,15 @@ name: Generate Snake
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -15,7 +20,7 @@ jobs:
           github_user_name: fahadhaya72
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
