@@ -77,10 +77,10 @@ I build scalable backend systems and real-time applications. Focused on system a
 
 <div align="center">
 
-📧 **Email:** [fahad.hayat@example.com](mailto:fahad.hayat@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/fahadhaya](https://linkedin.com/in/fahadhaya)  
+📧 **Email:** [cyberfahad72@gmail.com](mailto:cyberfahad72@gmail.com)  
+💼 **LinkedIn:** [[linkedin.com/in/fahadhaya](https://linkedin.com/in/fahad-hayat-6430962aa)]
 🐙 **GitHub:** [github.com/fahadhaya72](https://github.com/fahadhaya72)  
-📝 **Portfolio:** [fahadhaya.dev](https://fahadhaya.dev)
+📝 **Portfolio:** [fahadhaya.dev](https://portfolio25-two-lilac.vercel.app/)
 
 </div>
 
