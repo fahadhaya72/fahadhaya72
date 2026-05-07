@@ -1,202 +1,212 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        FAHAD HAYAT · README                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- ======================= BANNER SVG ======================= -->
+<!-- ======================= TOP BANNER ======================= -->
 
 <p align="center">
-<img src="./banner.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,35:F59E0B,70:111827,100:020617&text=Fahad%20Hayat&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20MERN%20Stack%20•%20Cybersecurity&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<br/>
+<!-- ======================= TYPING ======================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=F59E0B&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Backend+%26+System+Architecture;Real-Time+Application+Engineer;Cybersecurity+Enthusiast;Building+Scalable+Systems" />
+</p>
 
 <!-- ======================= BADGES ======================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/fahadhaya72?style=flat-square&logo=github&color=F59E0B&labelColor=0B1020&label=followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/fahadhaya72?style=flat-square&logo=github&color=F59E0B&labelColor=0B1020&label=stars"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fahadhaya72&style=flat-square&color=F59E0B&label=profile+views"/>
+  <img src="https://img.shields.io/github/followers/fahadhaya72?style=for-the-badge&logo=github&color=f59e0b"/>
+  
+  <img src="https://img.shields.io/github/stars/fahadhaya72?style=for-the-badge&logo=github&color=1f2937"/>
+
+  <img src="https://komarev.com/ghpvc/?username=fahadhaya72&style=for-the-badge&color=0ea5e9"/>
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
-
-<br/>
+---
 
 <!-- ======================= ABOUT ======================= -->
 
-## `01` &nbsp; About
-
-```yaml
-name:    Fahad Hayat
-role:    [ Full-Stack Developer, Backend Engineer ]
-focus:   [ System Architecture, Real-Time Apps, Distributed Systems, Cybersecurity ]
-status:  Building → FusionConnect
-learn:   [ Infrastructure Engineering, Backend Optimization ]
-```
-
-<br/>
+# 💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Backend+Engineer+%2F%2F+MERN+Stack+%2F%2F+Cybersecurity;Distributed+Systems+%2F%2F+Real-Time+Apps;Building+FusionConnect+%E2%86%92;Open+to+Collaboration+%E2%86%92" />
+  <img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 </p>
 
-<br/>
+```yaml
+Name: Fahad Hayat
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
+Role:
+  - Full-Stack Developer
+  - Backend Engineer
 
-<br/>
+Focus:
+  - System Architecture
+  - Real-Time Applications
+  - Distributed Systems
+  - Cybersecurity
+
+Currently Building:
+  - FusionConnect
+
+Learning:
+  - Infrastructure Engineering
+  - Backend Optimization
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,redis,docker,git,linux,cpp,python&perline=6" />
+</p>
+
+---
+
+<!-- ======================= ANIMATED LINE ======================= -->
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 <!-- ======================= PROJECTS ======================= -->
 
-## `02` &nbsp; Featured Projects
+# 🚀 Featured Projects
 
-<br/>
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/fahadhaya72/FusionConnect">⬡ &nbsp;FusionConnect →</a></h3>
-      <p>Real-time full-stack messaging platform with authentication, file uploads, and scalable REST architecture.</p>
-      <p>
-        <code>Node.js</code> &nbsp;
-        <code>React</code> &nbsp;
-        <code>MongoDB</code> &nbsp;
-        <code>Socket.io</code> &nbsp;
-        <code>Redis</code>
-      </p>
-      <p>
-        <sub>✓ Auth System &nbsp;·&nbsp; ✓ Real-Time Messaging</sub><br/>
-        <sub>✓ File Uploads &nbsp;·&nbsp; ✓ REST API &nbsp;·&nbsp; ✓ Scalable Workflow</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/fahadhaya72/E-commerce-Mern-">⬡ &nbsp;MERN E-Commerce →</a></h3>
-      <p>Full-featured e-commerce platform with admin dashboard, payment integration, reviews, and responsive UI.</p>
-      <p>
-        <code>Express</code> &nbsp;
-        <code>React</code> &nbsp;
-        <code>MongoDB</code> &nbsp;
-        <code>Razorpay</code>
-      </p>
-      <p>
-        <sub>✓ Admin Dashboard &nbsp;·&nbsp; ✓ Razorpay Integration</sub><br/>
-        <sub>✓ Reviews & Ratings &nbsp;·&nbsp; ✓ Responsive UI</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
-
-<br/>
-
-<!-- ======================= TECH STACK ======================= -->
-
-## `03` &nbsp; Tech Stack
-
-<br/>
+## 🔹 FusionConnect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,redis,docker,git,linux,cpp,python&perline=6&theme=dark" />
+  <img width="85%" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 </p>
 
-<br/>
+### ✨ Features
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
+```txt
+✓ Authentication System
+✓ Real-time Messaging
+✓ File Upload System
+✓ Structured Backend
+✓ REST API Architecture
+✓ Scalable Workflow
+```
 
-<br/>
+🔗 Repository  
+<a href="https://github.com/fahadhaya72/FusionConnect">FusionConnect</a>
 
-<!-- ======================= GITHUB STATS ======================= -->
+---
 
-## `04` &nbsp; GitHub Analytics
-
-<br/>
+## 🔹 MERN E-Commerce Platform
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=F59E0B&icon_color=F59E0B&text_color=94A3B8&ring_color=F59E0B"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=F59E0B&text_color=94A3B8"/>
+  <img width="80%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F3ZXF2d2l4bTRtbDJ0aWJ3ZXZ4ZW9sM2h3c2Q2ZnBvMWNwb2tnNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=fahadhaya72&theme=tokyonight&hide_border=true&background=0B1020&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B"/>
-</p>
+### ✨ Features
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhaya72&theme=tokyo-night&hide_border=true&bg_color=0B1020&color=F59E0B&line=F59E0B&point=ffffff&area=true&area_color=F59E0B"/>
-</p>
+```txt
+✓ Admin Dashboard
+✓ Razorpay Integration
+✓ Product Management
+✓ Authentication System
+✓ Review & Rating
+✓ Responsive UI
+```
 
-<br/>
+🔗 Repository  
+<a href="https://github.com/fahadhaya72/E-commerce-Mern-">E-Commerce Project</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
-
-<br/>
+---
 
 <!-- ======================= LEETCODE ======================= -->
 
-## `05` &nbsp; Competitive Programming
-
-<br/>
+# 🏆 Competitive Programming
 
 <p align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/cyberfahad72?theme=dark&font=Space+Mono&ext=contest&border=0&radius=4"/>
+  <img width="75%" src="https://leetcard.jacoblin.cool/cyberfahad72?theme=dark&font=Nunito&ext=contest">
 </p>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
+<!-- ======================= STATS ======================= -->
 
-<br/>
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ======================= STREAK ======================= -->
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=fahadhaya72&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhaya72&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
 
 <!-- ======================= SNAKE ======================= -->
 
-## `06` &nbsp; Contribution Trail
-
-<br/>
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
-
-<br/>
+---
 
 <!-- ======================= CONNECT ======================= -->
 
-## `07` &nbsp; Connect
-
-<br/>
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/fahadhaya72">
-    <img src="https://img.shields.io/badge/GitHub-fahadhaya72-F59E0B?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0B1020&color=0B1020"/>
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=F59E0B&labelColor=0B1020&color=0B1020"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-F59E0B?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=0B1020&color=0B1020"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
 </p>
 
-<br/>
+---
+
+<!-- ======================= QUOTE ======================= -->
+
+# ⚡ Engineering Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ======================= PACMAN ======================= -->
+
+# 🎮 Contribution Pacman
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/README-generator/main/src/images/pacman.svg">
+</p>
+
+---
 
 <!-- ======================= FOOTER ======================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B&width=100%"/>
-
-<br/>
-
 <p align="center">
-  <sub><code>fahadhaya72 · built with precision · © 2025</code></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020617,50:F59E0B,100:111827"/>
 </p>
