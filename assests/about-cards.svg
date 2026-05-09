@@ -1,0 +1,77 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="220" fill="#0D0F1A"/>
+
+<!-- LEFT CARD -->
+<rect x="10" y="10" width="420" height="200" fill="#111627" rx="2"/>
+<rect x="10" y="10" width="3" height="200" fill="url(#grad1)"/>
+<rect x="10" y="10" width="420" height="200" fill="none" stroke="#00F7FF" stroke-width="0.5" opacity="0.2" rx="2"/>
+<defs>
+  <linearGradient id="grad1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#00F7FF"/>
+    <stop offset="100%" stop-color="#6A00FF"/>
+  </linearGradient>
+  <linearGradient id="grad2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#6A00FF"/>
+    <stop offset="100%" stop-color="#00F7FF"/>
+  </linearGradient>
+</defs>
+<text font-family="Courier New,monospace" font-size="11" fill="#00F7FF" letter-spacing="3" x="28" y="38" opacity="0">
+  FULL STACK DEVELOPMENT
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze"/>
+</text>
+<line x1="28" y1="45" x2="415" y2="45" stroke="#00F7FF" stroke-width="0.5" opacity="0.2"/>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="28" y="68" opacity="0">
+  <tspan fill="#00F7FF">+</tspan>  MERN Stack Development
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.3s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="28" y="90" opacity="0">
+  <tspan fill="#00F7FF">+</tspan>  Authentication Systems
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.45s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="28" y="112" opacity="0">
+  <tspan fill="#00F7FF">+</tspan>  REST APIs
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.6s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="28" y="134" opacity="0">
+  <tspan fill="#00F7FF">+</tspan>  Admin Dashboards
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.75s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="28" y="156" opacity="0">
+  <tspan fill="#00F7FF">+</tspan>  Real-time Applications
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.9s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="28" y="178" opacity="0">
+  <tspan fill="#00F7FF">+</tspan>  MongoDB Integration
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.05s" fill="freeze"/>
+</text>
+
+<!-- RIGHT CARD -->
+<rect x="470" y="10" width="420" height="200" fill="#111627" rx="2"/>
+<rect x="887" y="10" width="3" height="200" fill="url(#grad2)"/>
+<rect x="470" y="10" width="420" height="200" fill="none" stroke="#6A00FF" stroke-width="0.5" opacity="0.3" rx="2"/>
+<text font-family="Courier New,monospace" font-size="11" fill="#9966FF" letter-spacing="3" x="488" y="38" opacity="0">
+  CYBERSECURITY JOURNEY
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze"/>
+</text>
+<line x1="488" y1="45" x2="875" y2="45" stroke="#6A00FF" stroke-width="0.5" opacity="0.3"/>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="488" y="68" opacity="0">
+  <tspan fill="#9966FF">+</tspan>  Vulnerability Scanning
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.3s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="488" y="90" opacity="0">
+  <tspan fill="#9966FF">+</tspan>  Network Scanning
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.45s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="488" y="112" opacity="0">
+  <tspan fill="#9966FF">+</tspan>  Security-focused Projects
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.6s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="488" y="134" opacity="0">
+  <tspan fill="#9966FF">+</tspan>  Learning Application Security
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.75s" fill="freeze"/>
+</text>
+<text font-family="Courier New,monospace" font-size="12" fill="#c8d4f0" x="488" y="156" opacity="0">
+  <tspan fill="#9966FF">+</tspan>  Exploring Secure Architectures
+  <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.9s" fill="freeze"/>
+</text>
+</svg>
