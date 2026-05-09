@@ -42,7 +42,7 @@
 
 # 🧠 ABOUT ME
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%">
@@ -83,18 +83,66 @@
 
 # 🚀 FEATURED PROJECTS
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fahadhaya72&repo=FusionConnect&theme=tokyonight&hide_border=true"/>
+<img src="https://ghrs.vercel.app/api/pin/?username=fahadhaya72&repo=FusionConnect&theme=tokyonight&hide_border=true" />
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fahadhaya72&repo=e-commerce-full-stack-website&theme=tokyonight&hide_border=true"/>
+<img src="https://ghrs.vercel.app/api/pin/?username=fahadhaya72&repo=E-commerce-Mern-&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center" width="50%">
+
+<h2>🔥 TrapMind AI</h2>
+<p><b>Adaptive honeypot and autonomous cyber defense system.</b></p>
+
+<b>Stack</b><br>
+Flask • React • Kafka • Redis • PostgreSQL
+
+<br><br>
+
+<b>Features</b><br>
+✔ Adaptive Honeypot<br>
+✔ Live Event Monitoring<br>
+✔ Dynamic Security Responses<br>
+✔ Distributed Event Processing<br>
+✔ AI-assisted Decision Logic
+
+</td>
+
+<td align="center" width="50%">
+
+<h2>🌐 FusionConnect</h2>
+<p><b>Full-stack collaboration and social platform.</b></p>
+
+<b>Stack</b><br>
+MERN • Socket.IO • JWT • REST APIs
+
+<br><br>
+
+<b>Features</b><br>
+✔ Authentication System<br>
+✔ Real-time Messaging<br>
+✔ Meetings & Collaboration<br>
+✔ Contacts System<br>
+✔ File Uploads<br>
+✔ Social Feed
 
 </td>
 
@@ -103,50 +151,46 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
-## 🔥 TrapMind AI
+<h2>⛽ FuelFlux</h2>
+<p><b>Fuel station management platform with admin system.</b></p>
 
-Adaptive honeypot and autonomous cyber defense system.
+<b>Stack</b><br>
+React • Node.js • Express • MongoDB • Tailwind
 
-### Stack
-- Flask
-- React
-- Kafka
-- Redis
-- PostgreSQL
+<br><br>
 
-### Features
-✔ Adaptive Honeypot  
-✔ Live Event Monitoring  
-✔ Dynamic Security Responses  
-✔ Distributed Event Processing  
-✔ AI-assisted Decision Logic  
+<b>Features</b><br>
+✔ Booking Management<br>
+✔ Employee Management<br>
+✔ Notifications<br>
+✔ Feedback System<br>
+✔ Admin Dashboard<br>
+✔ Station Management
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-## 🌐 FusionConnect
+<h2>🛒 MERN E-Commerce</h2>
+<p><b>Full-stack e-commerce application.</b></p>
 
-Full-stack collaboration and social platform.
+<b>Stack</b><br>
+MERN • Razorpay • JWT
 
-### Features
-✔ Authentication System  
-✔ Real-time Messaging  
-✔ Meetings & Collaboration  
-✔ Contacts System  
-✔ File Uploads  
-✔ Social Feed  
+<br><br>
 
-### Stack
-- MERN Stack
-- Socket.IO
-- JWT
-- REST APIs
+<b>Features</b><br>
+✔ Payment Integration<br>
+✔ Product Management<br>
+✔ User Authentication<br>
+✔ Reviews & Ratings<br>
+✔ Shopping System<br>
+✔ Admin Dashboard
 
 </td>
 
@@ -155,103 +199,50 @@ Full-stack collaboration and social platform.
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
-## ⛽ FuelFlux
+<h2>🛡 Network Vulnerability Scanner</h2>
+<p><b>Cybersecurity project focused on network analysis.</b></p>
 
-Fuel station management platform with admin system.
+<b>Focus</b><br>
+Network Scanning • Security Analysis • Threat Visibility
 
-### Features
-✔ Booking Management  
-✔ Employee Management  
-✔ Notifications  
-✔ Feedback System  
-✔ Admin Dashboard  
-✔ Station Management  
+<br><br>
 
-### Stack
-- React
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
+<b>Features</b><br>
+✔ Vulnerability Detection<br>
+✔ CVE-based Analysis<br>
+✔ Scan Reporting<br>
+✔ Nmap Integration<br>
+✔ Flask Dashboard
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-## 🛒 MERN E-Commerce Platform
+<h2>💻 Device Checker</h2>
+<p><b>Web-based device security checking system.</b></p>
 
-Full-stack e-commerce application.
+<b>Focus</b><br>
+Device Security • Risk Detection • Monitoring
 
-### Features
-✔ Razorpay Integration  
-✔ Product Management  
-✔ User Authentication  
-✔ Reviews & Ratings  
-✔ Shopping System  
-✔ Admin Dashboard  
+<br><br>
 
-### Stack
-- MERN Stack
-- Razorpay
-- JWT Authentication
+<b>Features</b><br>
+✔ Device Information Analysis<br>
+✔ Security-level Detection<br>
+✔ Suspicious File Detection<br>
+✔ System Analysis
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🛡 Network Vulnerability Scanner
-
-Cybersecurity project focused on network analysis.
-
-### Features
-✔ Vulnerability Detection  
-✔ CVE-based Analysis  
-✔ Scan Reporting  
-✔ Nmap Integration  
-✔ Flask Dashboard  
-
-### Focus
-- Network Scanning
-- Security Analysis
-- Threat Visibility
-
-</td>
-
-<td width="50%">
-
-## 💻 Device Checker
-
-Web-based device security checking system.
-
-### Features
-✔ Device Information Analysis  
-✔ Security-level Detection  
-✔ Suspicious File Detection  
-✔ System Analysis  
-
-### Focus
-- Device Security
-- Risk Detection
-- Security Monitoring
-
-</td>
-
-</tr>
-</table>
-
+</div>
 ---
 
 <div align="center">
@@ -304,9 +295,9 @@ Web-based device security checking system.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://ghrs.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadhaya72&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=fahadhaya72&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -314,7 +305,7 @@ Web-based device security checking system.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://ghrs.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -382,8 +373,9 @@ Web-based device security checking system.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg"/>
-
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg" />
+</p>
 </div>
 
 ---
