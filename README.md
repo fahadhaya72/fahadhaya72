@@ -1,257 +1,121 @@
-<!-- ===================================================== -->
-<!--                FAHAD HAYAT README                     -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Fahad%20Hayat&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Future%20Application%20Security%20Engineer&descAlignY=58"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Full+Stack+Developer;Future+Application+Security+Engineer;Cybersecurity+Enthusiast;Network+Security+Learner;Building+Secure+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer;Future+Application+Security+Engineer;Cybersecurity+Enthusiast;Network+Security+Learner;Building+Secure+Systems"/>
 
 </div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
-
-# ⚡ SYSTEM PROFILE
+<br>
 
 <div align="center">
-
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=2200&pause=700&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=240&lines=%3E+Initializing+Fahad.exe...;%3E+Role+%3A+Full+Stack+Developer;%3E+Goal+%3A+Application+Security+Engineer;%3E+Focus+%3A+Secure+Web+Applications+%2B+Cybersecurity;%3E+Experience+%3A+MERN+Projects+%2B+Security+Projects;%3E+Current+Learning+%3A+Vulnerability+Scanning+%2B+Network+Scanning;%3E+Mindset+%3A+Build+Secure+%2C+Analyze+Deeply+%2C+Keep+Learning"/>
-
+<img src="./assests/matrix-banner.svg" width="900"/>
 </div>
 
----
+<br>
+
+## 🧠 About Me
 
 <div align="center">
+<img src="./assests/about-cards.svg" width="900"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
+<br>
 
-# 🧠 ABOUT ME
+## 🚀 Featured Projects
 
-<table align="center">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🔥 TrapMind AI
+> Adaptive honeypot and autonomous cyber defense system.
 
-## 💻 Full Stack Development
+**Stack** — `Flask` `React` `Kafka` `Redis` `PostgreSQL`
 
-- MERN Stack Development  
-- Authentication Systems  
-- REST APIs  
-- Admin Dashboards  
-- Real-time Applications  
-- MongoDB Integration  
+✔ Adaptive Honeypot · ✔ Live Event Monitoring · ✔ Dynamic Security Responses · ✔ Distributed Event Processing · ✔ AI-assisted Decision Logic
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🌐 FusionConnect
+> Full-stack collaboration and social platform.
 
-## 🔐 Cybersecurity Journey
+**Stack** — `MERN` `Socket.IO` `JWT` `REST APIs`
 
-- Vulnerability Scanning  
-- Network Scanning  
-- Security-focused Projects  
-- Learning Application Security  
-- Exploring Secure Architectures  
+✔ Authentication System · ✔ Real-time Messaging · ✔ Meetings & Collaboration · ✔ Contacts System · ✔ File Uploads · ✔ Social Feed
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### ⛽ FuelFlux
+> Fuel station management platform with admin system.
+
+**Stack** — `React` `Node.js` `Express` `MongoDB` `Tailwind`
+
+✔ Booking Management · ✔ Employee Management · ✔ Notifications · ✔ Feedback System · ✔ Admin Dashboard · ✔ Station Management
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 MERN E-Commerce
+> Full-stack e-commerce application.
+
+**Stack** — `MERN` `Razorpay` `JWT`
+
+✔ Payment Integration · ✔ Product Management · ✔ User Authentication · ✔ Reviews & Ratings · ✔ Shopping System · ✔ Admin Dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡 Network Vulnerability Scanner
+> Cybersecurity project focused on network analysis.
+
+**Stack** — `Network Scanning` `Security Analysis` `Threat Visibility`
+
+✔ Vulnerability Detection · ✔ CVE-based Analysis · ✔ Scan Reporting · ✔ Nmap Integration · ✔ Flask Dashboard
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Device Checker
+> Web-based device security checking system.
+
+**Stack** — `Device Security` `Risk Detection` `Monitoring`
+
+✔ Device Information Analysis · ✔ Security-level Detection · ✔ Suspicious File Detection · ✔ System Analysis
+
+</td>
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3" width="100%" />
-
-</div>
-
-# 🚀 FEATURED PROJECTS
-
-<table align="center">
-<tr>
-
-<td width="100%">
-
-<img src="https://ghrs.vercel.app/api/pin/?username=fahadhaya72&repo=FusionConnect&theme=tokyonight&hide_border=true" />
-
-</td>
-
-<td width="100%">
-
+<img src="https://ghrs.vercel.app/api/pin/?username=fahadhaya72&repo=FusionConnect&theme=tokyonight&hide_border=true"/>
+&nbsp;
 <img src="https://ghrs.vercel.app/api/pin/?username=fahadhaya72&repo=E-commerce-Mern-&theme=tokyonight&hide_border=true"/>
 
-</td>
-
-</tr>
-</table>
-
-<br>
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center" width="50%">
-
-<h2>🔥 TrapMind AI</h2>
-<p><b>Adaptive honeypot and autonomous cyber defense system.</b></p>
-
-<b>Stack</b><br>
-Flask • React • Kafka • Redis • PostgreSQL
-
-<br><br>
-
-<b>Features</b><br>
-✔ Adaptive Honeypot<br>
-✔ Live Event Monitoring<br>
-✔ Dynamic Security Responses<br>
-✔ Distributed Event Processing<br>
-✔ AI-assisted Decision Logic
-
-</td>
-
-<td align="center" width="50%">
-
-<h2>🌐 FusionConnect</h2>
-<p><b>Full-stack collaboration and social platform.</b></p>
-
-<b>Stack</b><br>
-MERN • Socket.IO • JWT • REST APIs
-
-<br><br>
-
-<b>Features</b><br>
-✔ Authentication System<br>
-✔ Real-time Messaging<br>
-✔ Meetings & Collaboration<br>
-✔ Contacts System<br>
-✔ File Uploads<br>
-✔ Social Feed
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="50%">
-
-<h2>⛽ FuelFlux</h2>
-<p><b>Fuel station management platform with admin system.</b></p>
-
-<b>Stack</b><br>
-React • Node.js • Express • MongoDB • Tailwind
-
-<br><br>
-
-<b>Features</b><br>
-✔ Booking Management<br>
-✔ Employee Management<br>
-✔ Notifications<br>
-✔ Feedback System<br>
-✔ Admin Dashboard<br>
-✔ Station Management
-
-</td>
-
-<td align="center" width="50%">
-
-<h2>🛒 MERN E-Commerce</h2>
-<p><b>Full-stack e-commerce application.</b></p>
-
-<b>Stack</b><br>
-MERN • Razorpay • JWT
-
-<br><br>
-
-<b>Features</b><br>
-✔ Payment Integration<br>
-✔ Product Management<br>
-✔ User Authentication<br>
-✔ Reviews & Ratings<br>
-✔ Shopping System<br>
-✔ Admin Dashboard
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="50%">
-
-<h2>🛡 Network Vulnerability Scanner</h2>
-<p><b>Cybersecurity project focused on network analysis.</b></p>
-
-<b>Focus</b><br>
-Network Scanning • Security Analysis • Threat Visibility
-
-<br><br>
-
-<b>Features</b><br>
-✔ Vulnerability Detection<br>
-✔ CVE-based Analysis<br>
-✔ Scan Reporting<br>
-✔ Nmap Integration<br>
-✔ Flask Dashboard
-
-</td>
-
-<td align="center" width="50%">
-
-<h2>💻 Device Checker</h2>
-<p><b>Web-based device security checking system.</b></p>
-
-<b>Focus</b><br>
-Device Security • Risk Detection • Monitoring
-
-<br><br>
-
-<b>Features</b><br>
-✔ Device Information Analysis<br>
-✔ Security-level Detection<br>
-✔ Suspicious File Detection<br>
-✔ System Analysis
-
-</td>
-
-</tr>
-</table>
-
 </div>
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
+<br>
 
-# 🛠 TECH STACK
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -259,44 +123,32 @@ Device Security • Risk Detection • Monitoring
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
+
+<br>
+
+## 🧪 Security Toolkit
 
 <div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-00F7FF?style=for-the-badge&logo=gnometerminal&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6b00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
+<br>
 
-# 🧪 SECURITY TOOLKIT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Nmap-00F7FF?style=for-the-badge&logo=gnometerminal&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-ff6b00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
-
-</div>
-
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://ghrs.vercel.app/api?username=fahadhaya72&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+&nbsp;
 <img height="180em" src="https://streak-stats.demolab.com?user=fahadhaya72&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -305,19 +157,35 @@ Device Security • Risk Detection • Monitoring
 
 <div align="center">
 
-<img height="180em" src="https://ghrs.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhaya72&theme=react-dark&bg_color=0D0F1A&color=00F7FF&line=6A00FF&point=00F7FF&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
+<img src="https://ghrs.vercel.app/api/top-langs/?username=fahadhaya72&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-# 🏆 COMPETITIVE PROGRAMMING
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
+
+<br>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fahadhaya72&theme=matrix&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
+
+<br>
+
+## 🏅 Competitive Programming
 
 <div align="center">
 
@@ -325,68 +193,45 @@ Device Security • Risk Detection • Monitoring
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
+
+<br>
+
+## 📜 Certifications
 
 <div align="center">
+
+![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
+<br>
 
-# 📜 CERTIFICATIONS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
+## 🎯 Current Goal
 
 <div align="center">
+<img src="./assests/goal-terminal.svg" width="900"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
+<br>
 
-# 🎯 CURRENT GOAL
-
-<div align="center">
-
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=2500&pause=700&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%3E+Become+an+Application+Security+Engineer;%3E+Build+Secure+Applications;%3E+Learn+Advanced+Web+Security;%3E+Improve+Secure+Coding+Skills;%3E+Explore+Real-world+Security+Testing"/>
-
-</div>
-
----
+## 🐍 Contribution Graph
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
-# 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
- <p align="center">
-  <img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/output/github-contribution-grid-snake-dark.svg" />
-</p>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
-
-</div>
-
-# 🌌 PROFILE VIEWS
+## 🌌 Profile Views
 
 <div align="center">
 
@@ -394,25 +239,19 @@ Device Security • Risk Detection • Monitoring
 
 </div>
 
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
 
-</div>
+<br>
 
-# 🌐 CONNECT WITH ME
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/fahadhaya72">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/fahadhaya72)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
