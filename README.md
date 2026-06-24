@@ -189,7 +189,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/main/assets/coding_dashboard.svg" width="100%">
+<img src="https://raw.githubusercontent.com/fahadhaya72/fahadhaya72/main/assests/coding_dashboard.svg" width="100%">
 
 </div>
 
