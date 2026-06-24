@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000"
+height="450"
+viewBox="0 0 1000 450">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<rect x="20"
+      y="20"
+      width="960"
+      height="410"
+      rx="15"
+      fill="#161b22"
+      stroke="#00ff88"
+      stroke-width="2"/>
+
+<text x="40"
+      y="70"
+      fill="#00ff88"
+      font-family="monospace"
+      font-size="28"
+      font-weight="bold">
+FHD Competitive Programming
+</text>
+
+<line x1="40" y1="95" x2="940" y2="95"
+      stroke="#00ff88"
+      stroke-width="2"/>
+
+<text x="50" y="150"
+      fill="white"
+      font-family="monospace"
+      font-size="24">
+LeetCode      : 780
+</text>
+
+<text x="50" y="200"
+      fill="white"
+      font-family="monospace"
+      font-size="24">
+Codeforces    : 16
+</text>
+
+<text x="50" y="250"
+      fill="white"
+      font-family="monospace"
+      font-size="24">
+CodeChef      : 116
+</text>
+
+<text x="50" y="300"
+      fill="white"
+      font-family="monospace"
+      font-size="24">
+GeeksforGeeks : 36
+</text>
+
+<text x="50" y="350"
+      fill="white"
+      font-family="monospace"
+      font-size="24">
+HackerRank    : 92
+</text>
+
+<line x1="40" y1="380" x2="940" y2="380"
+      stroke="#00ff88"
+      stroke-width="2"/>
+
+<text x="50"
+      y="415"
+      fill="#00ff88"
+      font-family="monospace"
+      font-size="28"
+      font-weight="bold">
+Total Solved : 1040
+</text>
+
+<text x="720"
+      y="415"
+      fill="#888888"
+      font-family="monospace"
+      font-size="18">
+Updated: 2026-06-24
+</text>
+
+</svg>
