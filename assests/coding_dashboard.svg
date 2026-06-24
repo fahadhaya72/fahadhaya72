@@ -1,40 +1,16 @@
-svg = f"""
-<svg width="900" height="300"
-xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600"
+     height="120"
+     viewBox="0 0 600 120">
 
-<rect width="100%" height="100%"
-fill="#0d1117"/>
+  <rect width="600" height="120" fill="#0d1117"/>
 
-<text x="50" y="50"
-fill="white"
-font-size="28">
-Coding Dashboard
-</text>
-
-<text x="50" y="100"
-fill="#58a6ff">
-LeetCode: {leetcode}
-</text>
-
-<text x="50" y="140"
-fill="#58a6ff">
-Codeforces: {codeforces}
-</text>
-
-<text x="50" y="180"
-fill="#58a6ff">
-CodeChef: {codechef}
-</text>
-
-<text x="50" y="220"
-fill="#58a6ff">
-GFG: {gfg}
-</text>
-
-<text x="50" y="260"
-fill="#3fb950">
-Total: {total}
-</text>
+  <text x="20"
+        y="70"
+        fill="#00ff88"
+        font-family="Arial"
+        font-size="30">
+    FHD Coding Dashboard
+  </text>
 
 </svg>
-"""
