@@ -31,7 +31,7 @@ FHD Competitive Programming
       fill="white"
       font-family="monospace"
       font-size="24">
-LeetCode      : 805
+LeetCode      : 807
 </text>
 
 <text x="50" y="200"
@@ -72,7 +72,7 @@ HackerRank    : 92
       font-family="monospace"
       font-size="28"
       font-weight="bold">
-Total Solved : 951
+Total Solved : 953
 </text>
 
 <text x="720"
@@ -80,7 +80,7 @@ Total Solved : 951
       fill="#888888"
       font-family="monospace"
       font-size="18">
-Updated: 2026-07-08
+Updated: 2026-07-09
 </text>
 
 </svg>
