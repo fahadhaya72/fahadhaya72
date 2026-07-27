@@ -31,35 +31,42 @@ FHD Competitive Programming
       fill="white"
       font-family="monospace"
       font-size="24">
-LeetCode      : 845
+LeetCode      : 846
 </text>
 
 <text x="50" y="200"
       fill="white"
       font-family="monospace"
       font-size="24">
-Codeforces    : 18
+Codeforces    : 69
 </text>
 
 <text x="50" y="250"
       fill="white"
       font-family="monospace"
       font-size="24">
-CodeChef      : 0
+CodeChef      : 285
 </text>
 
 <text x="50" y="300"
       fill="white"
       font-family="monospace"
       font-size="24">
-GeeksforGeeks : 36
+GeeksforGeeks : 81
 </text>
 
 <text x="50" y="350"
       fill="white"
       font-family="monospace"
       font-size="24">
-HackerRank    : 92
+HackerRank    : 97
+</text>
+
+<text x="50" y="350"
+      fill="white"
+      font-family="monospace"
+      font-size="24">
+CodeStudio    : 105
 </text>
 
 <line x1="40" y1="380" x2="940" y2="380"
@@ -72,7 +79,7 @@ HackerRank    : 92
       font-family="monospace"
       font-size="28"
       font-weight="bold">
-Total Solved : 991
+Total Solved : 1482
 </text>
 
 <text x="720"
